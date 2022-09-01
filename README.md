@@ -187,11 +187,6 @@ Complete the following steps:
 
 * Close out your session.
 
-## Rubric
-
-[Unit 10 Homework Rubric](https://docs.google.com/document/d/1gT29iMF3avSvJruKpcHY4qovP5QitgXePqtjC6XESI0/edit?usp=sharing)
-
-- - -
 
 ## References
 
